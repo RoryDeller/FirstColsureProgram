@@ -1,4 +1,4 @@
-(import java.util.ArrayList) ; Can run java imports since closure runs on the JVM could even run JavaFX
+(import java.util.ArrayList) ; Can run java imports since closure runs on the JVM could even run JavaFX, facilitates java objects
 
 (ns Main)
 (println (+ 5 6))
